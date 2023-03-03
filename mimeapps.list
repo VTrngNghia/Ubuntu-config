@@ -1,0 +1,18 @@
+[Added Associations]
+application/vnd.debian.binary-package=snap-store_ubuntu-software-local-file.desktop;
+application/x-compressed-tar=org.gnome.FileRoller.desktop;
+font/ttf=org.gnome.font-viewer.desktop;
+application/x-shellscript=sublime_text.desktop;nautilus-autorun-software.desktop;
+text/csv=sublime_text.desktop;libreoffice-calc.desktop;org.gnome.gedit.desktop;
+application/json=sublime_text.desktop;
+
+[Default Applications]
+text/html=firefox_firefox.desktop
+x-scheme-handler/http=firefox_firefox.desktop
+x-scheme-handler/https=firefox_firefox.desktop
+x-scheme-handler/about=firefox_firefox.desktop
+x-scheme-handler/unknown=firefox_firefox.desktop
+x-scheme-handler/webcal=google-chrome.desktop
+application/vnd.debian.binary-package=snap-store_ubuntu-software-local-file.desktop
+application/x-shellscript=nautilus-autorun-software.desktop
+text/csv=sublime_text.desktop

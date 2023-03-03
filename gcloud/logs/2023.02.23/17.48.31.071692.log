@@ -1,0 +1,54 @@
+2023-02-23 17:48:31,104 DEBUG    root            Loaded Command Group: ['gcloud', 'compute']
+2023-02-23 17:48:31,107 DEBUG    root            Loaded Command Group: ['gcloud', 'compute', 'instances']
+2023-02-23 17:48:31,116 DEBUG    root            Loaded Command Group: ['gcloud', 'compute', 'instances', 'list']
+2023-02-23 17:48:31,118 DEBUG    root            Running [gcloud.compute.instances.list] with arguments: []
+2023-02-23 17:48:31,249 DEBUG    root            Chosen display Format:    table(
+      name,
+      zone.basename(),
+      machineType.machine_type().basename(),
+      scheduling.preemptible.yesno(yes=true, no=''),
+      networkInterfaces[].networkIP.notnull().list():label=INTERNAL_IP,
+      networkInterfaces[].accessConfigs[0].natIP.notnull().list()      :label=EXTERNAL_IP,
+      status
+    )
+2023-02-23 17:48:31,250 INFO     root            Display format: "    table(
+      name,
+      zone.basename(),
+      machineType.machine_type().basename(),
+      scheduling.preemptible.yesno(yes=true, no=''),
+      networkInterfaces[].networkIP.notnull().list():label=INTERNAL_IP,
+      networkInterfaces[].accessConfigs[0].natIP.notnull().list()      :label=EXTERNAL_IP,
+      status
+    )"
+2023-02-23 17:48:31,254 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): compute.googleapis.com:443
+2023-02-23 17:48:32,202 DEBUG    urllib3.connectionpool https://compute.googleapis.com:443 "POST /batch/compute/v1 HTTP/1.1" 200 None
+2023-02-23 17:48:32,222 INFO     root            cache collection=compute.instances api_version=v1 params=['project', 'zone', 'instance']
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___ NAME
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___     
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___ ZONE
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___         
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___ MACHINE_TYPE
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___   
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___ PREEMPTIBLE
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___   
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___ INTERNAL_IP
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___   
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___ EXTERNAL_IP
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___    
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___ STATUS
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___ 
+
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___ warden
+2023-02-23 17:48:32,258 INFO     ___FILE_ONLY___   
+2023-02-23 17:48:32,259 INFO     ___FILE_ONLY___ us-west1-b
+2023-02-23 17:48:32,259 INFO     ___FILE_ONLY___   
+2023-02-23 17:48:32,259 INFO     ___FILE_ONLY___ e2-micro
+2023-02-23 17:48:32,259 INFO     ___FILE_ONLY___                    
+2023-02-23 17:48:32,259 INFO     ___FILE_ONLY___ 10.138.0.2
+2023-02-23 17:48:32,259 INFO     ___FILE_ONLY___    
+2023-02-23 17:48:32,259 INFO     ___FILE_ONLY___ 34.83.153.53
+2023-02-23 17:48:32,259 INFO     ___FILE_ONLY___   
+2023-02-23 17:48:32,259 INFO     ___FILE_ONLY___ RUNNING
+2023-02-23 17:48:32,259 INFO     ___FILE_ONLY___ 
+
+2023-02-23 17:48:32,259 DEBUG    root            SDK update checks are disabled.

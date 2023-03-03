@@ -1,0 +1,8 @@
+[core]
+account = vtrngnghia@gmail.com
+project = nghiawarden
+
+[compute]
+zone = us-west1-b
+region = us-west1
+
