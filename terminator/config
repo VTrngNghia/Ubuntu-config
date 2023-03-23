@@ -3,6 +3,8 @@
   case_sensitive = False
 [keybindings]
   new_tab = <Primary>t
+  page_up_half = Page_Down
+  page_down_half = Page_Up
   switch_to_tab_1 = <Alt>1
   switch_to_tab_2 = <Alt>2
   switch_to_tab_3 = <Alt>3
