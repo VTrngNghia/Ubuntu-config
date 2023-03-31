@@ -1,6 +1,6 @@
 google-chrome
 JetBrains
-nvim
+nvim/
 !nvim/lua/custom
 dconf
 microsoft-edge-dev
