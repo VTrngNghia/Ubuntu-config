@@ -1,6 +1,11 @@
 google-chrome
 JetBrains
 nvim
+!nvim/lua/custom
 dconf
 microsoft-edge-dev
 autostart
+monitors.xml
+monitors.xml~
+sublime-text/Local
+pulse
