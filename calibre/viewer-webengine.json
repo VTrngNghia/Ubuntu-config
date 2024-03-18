@@ -1,0 +1,100 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 606,
+      "width": 512,
+      "x": 2211,
+      "y": 144
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 576,
+      "width": 512,
+      "x": 2211,
+      "y": 174
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 576,
+      "width": 512,
+      "x": 2211,
+      "y": 174
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAijAAAAkAAACqIAAALtAAAIowAAAK4AAAqiAAAC7QAAAAAAAAAABgAAAAijAAAArgAACqIAAALt"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 864,
+        "width": 1536,
+        "x": 1920,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Dell Inc.",
+      "model": "DELL P2422H-",
+      "name": "HDMI-1",
+      "serial": "D9GZDQ3-",
+      "size_in_logical_pixels": {
+        "height": 864,
+        "width": 1536
+      },
+      "virtual_geometry": {
+        "height": 864,
+        "width": 3456,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAACAAAAAkAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "key": "/home/nghiavt1/calibre/Unknown/German-English Wiktionary (1331)/German-English Wiktionary - Unknown.epub",
+        "pathtoebook": "/home/nghiavt1/calibre/Unknown/German-English Wiktionary (1331)/German-English Wiktionary - Unknown.epub",
+        "timestamp": "2024-02-22T07:23:57.151Z",
+        "title": "German–English Wiktionary"
+      },
+      {
+        "key": "/home/nghiavt1/Projects/wiktionary-to-kindle/dictionary-de-en.mobi",
+        "pathtoebook": "/home/nghiavt1/Projects/wiktionary-to-kindle/dictionary-de-en.mobi",
+        "timestamp": "2024-02-22T05:27:11.867Z",
+        "title": "German–English Wiktionary"
+      },
+      {
+        "authors": [
+          "PONS"
+        ],
+        "key": "/home/nghiavt1/calibre/PONS/PONS Premium German-English Dictionary _ PONS Worterbuch Deutsch-Englisch Premium (1330)/PONS Premium German-English Dictionary _ P - PONS.epub",
+        "pathtoebook": "/home/nghiavt1/calibre/PONS/PONS Premium German-English Dictionary _ PONS Worterbuch Deutsch-Englisch Premium (1330)/PONS Premium German-English Dictionary _ P - PONS.epub",
+        "timestamp": "2023-12-18T01:59:17.874Z",
+        "title": "PONS Premium German-English Dictionary / PONS Wörterbuch Deutsch-Englisch Premium"
+      },
+      {
+        "authors": [
+          "Ethel Voynich"
+        ],
+        "key": "/home/nghiavt1/calibre/Ethel Voynich/The Gadfly (359)/The Gadfly - Ethel Voynich.prc",
+        "pathtoebook": "/home/nghiavt1/calibre/Ethel Voynich/The Gadfly (359)/The Gadfly - Ethel Voynich.prc",
+        "timestamp": "2023-04-04T11:21:09.101Z",
+        "title": "The Gadfly"
+      }
+    ]
+  }
+}

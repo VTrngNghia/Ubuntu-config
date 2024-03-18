@@ -1,0 +1,33 @@
+{
+  "add books dialog dir": "/home/nghiavt1/Projects/wiktionary-to-kindle",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "choose library location": "/home/nghiavt1/calibre",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "7.2",
+      "7.5"
+    ]
+  },
+  "recursive book import root dir dialog": "/home/nghiavt1/Downloads/Warhammer Universe",
+  "sort_history": [
+    [
+      "last_modified",
+      false
+    ],
+    [
+      "title",
+      false
+    ],
+    [
+      "authors",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "kindle_pw",
+  "welcome_wizard_was_run": true
+}

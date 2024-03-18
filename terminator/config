@@ -3,8 +3,8 @@
   case_sensitive = False
 [keybindings]
   new_tab = <Primary>t
-  page_up_half = Page_Down
-  page_down_half = Page_Up
+  page_up_half = Page_Up
+  page_down_half = Page_Down
   switch_to_tab_1 = <Alt>1
   switch_to_tab_2 = <Alt>2
   switch_to_tab_3 = <Alt>3
@@ -21,8 +21,10 @@
     background_color = "#fafafa"
     cursor_color = "#bfceff"
     cursor_color_fg = False
+    font = Ubuntu Mono 16
     foreground_color = "#383a42"
     palette = "#383a42:#e45649:#50a14f:#c18401:#0184bc:#a626a4:#0997b3:#99c1f1:#4f525e:#e06c75:#98c379:#e5c07b:#61afef:#c678dd:#56b6c2:#ffffff"
+    use_system_font = False
   [[default_backup]]
     background_color = "#282828"
     cursor_color = "#aaaaaa"
