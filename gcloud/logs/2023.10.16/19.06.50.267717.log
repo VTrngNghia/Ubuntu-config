@@ -1,0 +1,22 @@
+2023-10-16 19:06:50,269 DEBUG    root            Loaded Command Group: ['gcloud', 'init']
+2023-10-16 19:06:50,270 DEBUG    root            Running [gcloud.init] with arguments: []
+2023-10-16 19:06:50,270 INFO     ___FILE_ONLY___ Welcome! This command will take you through the configuration of gcloud.
+
+
+2023-10-16 19:06:50,271 INFO     ___FILE_ONLY___ Settings from your current configuration [default] are:
+
+2023-10-16 19:06:50,273 INFO     ___FILE_ONLY___ compute:
+  region: us-west1
+  zone: us-west1-b
+core:
+  account: vtrngnghia@gmail.com
+  disable_usage_reporting: 'True'
+  project: nghiawarden
+
+2023-10-16 19:06:50,273 INFO     ___FILE_ONLY___ 
+
+2023-10-16 19:07:01,121 INFO     ___FILE_ONLY___ 
+
+Command killed by keyboard interrupt
+
+

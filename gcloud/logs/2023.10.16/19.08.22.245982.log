@@ -1,0 +1,54 @@
+2023-10-16 19:08:22,255 DEBUG    root            Loaded Command Group: ['gcloud', 'compute']
+2023-10-16 19:08:22,257 DEBUG    root            Loaded Command Group: ['gcloud', 'compute', 'instances']
+2023-10-16 19:08:22,261 DEBUG    root            Loaded Command Group: ['gcloud', 'compute', 'instances', 'list']
+2023-10-16 19:08:22,262 DEBUG    root            Running [gcloud.compute.instances.list] with arguments: []
+2023-10-16 19:08:22,357 DEBUG    root            Chosen display Format:    table(
+      name,
+      zone.basename(),
+      machineType.machine_type().basename(),
+      scheduling.preemptible.yesno(yes=true, no=''),
+      networkInterfaces[].networkIP.notnull().list():label=INTERNAL_IP,
+      networkInterfaces[].accessConfigs[0].natIP.notnull().list()      :label=EXTERNAL_IP,
+      status
+    )
+2023-10-16 19:08:22,357 INFO     root            Display format: "    table(
+      name,
+      zone.basename(),
+      machineType.machine_type().basename(),
+      scheduling.preemptible.yesno(yes=true, no=''),
+      networkInterfaces[].networkIP.notnull().list():label=INTERNAL_IP,
+      networkInterfaces[].accessConfigs[0].natIP.notnull().list()      :label=EXTERNAL_IP,
+      status
+    )"
+2023-10-16 19:08:22,359 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): compute.googleapis.com:443
+2023-10-16 19:08:23,002 DEBUG    urllib3.connectionpool https://compute.googleapis.com:443 "GET /compute/v1/projects/nghiawarden/aggregated/instances?alt=json&includeAllScopes=True&maxResults=500&returnPartialSuccess=True HTTP/1.1" 200 None
+2023-10-16 19:08:23,013 INFO     root            cache collection=compute.instances api_version=v1 params=['project', 'zone', 'instance']
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___ NAME
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___     
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___ ZONE
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___         
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___ MACHINE_TYPE
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___   
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___ PREEMPTIBLE
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___   
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___ INTERNAL_IP
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___   
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___ EXTERNAL_IP
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___    
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___ STATUS
+2023-10-16 19:08:23,034 INFO     ___FILE_ONLY___ 
+
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___ warden
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___   
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___ us-west1-b
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___   
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___ e2-micro
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___                    
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___ 10.138.0.2
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___    
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___ 34.83.153.53
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___   
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___ RUNNING
+2023-10-16 19:08:23,035 INFO     ___FILE_ONLY___ 
+
+2023-10-16 19:08:23,035 DEBUG    root            SDK update checks are disabled.
