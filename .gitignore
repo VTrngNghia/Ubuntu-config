@@ -25,4 +25,6 @@ goa-1.0
 github-copilot
 gcloud
 cef_user_data
-
+ibus/bus
+skypeforlinux
+terminator/plugins/__pycache__/
