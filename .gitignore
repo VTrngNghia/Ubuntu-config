@@ -2,6 +2,7 @@ google-chrome
 JetBrains
 nvim/
 !nvim/lua/custom
+!nvim/init.vim
 dconf
 microsoft-edge-dev
 autostart
