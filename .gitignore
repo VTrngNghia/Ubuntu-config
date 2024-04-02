@@ -26,3 +26,4 @@ cef_user_data
 ibus/bus
 skypeforlinux
 terminator/plugins/__pycache__/
+github-copilot/hosts.json
