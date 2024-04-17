@@ -1,11 +1,12 @@
-echo "sourcing aliases from $(realpath $0)"
+echo "Sourcing aliases from $(realpath $0)"
+source "$HOME/.config/zsh-custom/aliases.zsh"
 
 alias refresh="source ~/.zshrc"
 alias tp="trash-put"
 alias v="nvim"
 alias py=python3
 alias ts='ts-node'
-alias proxy-up='$HOME/scripts/proxy-up.sh'
+alias proxy-up="$HOME/scripts/proxy-up.sh"
 alias vsync="$HOME/scripts/sync-vertical-dev.sh"
 alias ssh-vertical="ssh verticals1v.dev.itim.vn"
 alias ssh-meta-="ssh metasearcher1v.dev.itim.vn"

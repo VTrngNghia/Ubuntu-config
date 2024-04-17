@@ -1,4 +1,5 @@
 echo "sourcing aliases from $(realpath $0)"
+source "$HOME/.config/zsh-custom/env.zsh"
 
 alias refresh="source ~/.zshrc"
 alias tp="trash-put"
@@ -7,6 +8,8 @@ alias py=python
 alias ts='ts-node'
 alias proxy-up='$HOME/scripts/proxy-up.sh'
 alias vsync="$HOME/scripts/sync-vertical-dev.sh"
+alias gpu0="ssh $gpu0"
+alias gpu1="ssh $gpu1"
 alias ssh-vertical-="ssh nghiavt1@verticals1v.dev.itim.vn"
 alias ssh-meta-="ssh nghiavt1@metasearcher1v.dev.itim.vn"
 alias ssh-searcher="ssh nghiavt1@searcher-data1v.dev.itim.vn"
