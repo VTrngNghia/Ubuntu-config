@@ -5,6 +5,7 @@ alias condac="conda deactivate && conda activate"
 alias refresh="source ~/.zshrc"
 alias tp="trash-put"
 alias v="nvim"
+alias vi="nvim"
 alias py=python
 alias ts='ts-node'
 alias proxy-up='$HOME/scripts/proxy-up.sh'

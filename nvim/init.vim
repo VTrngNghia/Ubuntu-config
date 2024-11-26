@@ -1,0 +1,2 @@
+source ~/.vimrc
+colorscheme morning
