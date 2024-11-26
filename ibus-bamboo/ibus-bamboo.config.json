@@ -163,8 +163,8 @@
   "Flags": 7,
   "IBflags": 262640,
   "Shortcuts": [
-    1,
-    126,
+    4,
+    96,
     0,
     0,
     0,
@@ -175,5 +175,8 @@
     117
   ],
   "DefaultInputMode": 3,
-  "InputModeMapping": {}
+  "InputModeMapping": {
+    "jetbrains-pycharm:jetbrains-pycharm": 3,
+    "skype:Skype": 1
+  }
 }

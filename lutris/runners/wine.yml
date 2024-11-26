@@ -1,0 +1,5 @@
+system:
+  locale: ''
+wine:
+  custom_wine_path: /home/nghia/.local/share/lutris/runners/wine/wine-ge-custom-GE-Proton8-27-LoL/makebuild.sh
+  version: custom
