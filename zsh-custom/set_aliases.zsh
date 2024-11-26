@@ -1,6 +1,7 @@
 echo "sourcing aliases from $(realpath $0)"
-source "$HOME/.config/zsh-custom/env.zsh"
 
+alias mamba='micromamba'
+alias condac="conda deactivate && conda activate"
 alias refresh="source ~/.zshrc"
 alias tp="trash-put"
 alias v="nvim"
@@ -8,8 +9,10 @@ alias py=python
 alias ts='ts-node'
 alias proxy-up='$HOME/scripts/proxy-up.sh'
 alias vsync="$HOME/scripts/sync-vertical-dev.sh"
-alias gpu0="ssh $gpu0"
-alias gpu1="ssh $gpu1"
+alias sandbox="ssh -t $sandbox '/usr/bin/zsh -l'"
+alias gpu0="ssh -t $gpu0 '/home/nghiavt1/.local/bin/zsh -l'"
+alias gpu1="ssh -t $gpu1 '/home/nghiavt1/.local/bin/zsh -l'"
+alias hweb="ssh -t $hweb '/home/nghiavt1/bin/zsh -l'"
 alias ssh-vertical-="ssh nghiavt1@verticals1v.dev.itim.vn"
 alias ssh-meta-="ssh nghiavt1@metasearcher1v.dev.itim.vn"
 alias ssh-searcher="ssh nghiavt1@searcher-data1v.dev.itim.vn"
@@ -25,4 +28,3 @@ alias xcp='xclip -selection clipboard'
 alias cppfix='cpplint --do-fix'
 alias calibre-sync="/home/nghiavt1/scripts/calibre-sync.sh"
 alias gtree='git log --graph --abbrev-commit --decorate --format=format:"%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)" --all'
-alias sandbox='ssh $sandbox'
