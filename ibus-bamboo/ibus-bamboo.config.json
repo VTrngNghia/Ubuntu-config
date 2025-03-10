@@ -1,5 +1,5 @@
 {
-  "InputMethod": "Telex W",
+  "InputMethod": "Telex",
   "InputMethodDefinitions": {
     "Microsoft layout": {
       "!": "_Ă",
@@ -161,7 +161,7 @@
   },
   "OutputCharset": "Unicode",
   "Flags": 7,
-  "IBflags": 262640,
+  "IBflags": 1343984,
   "Shortcuts": [
     4,
     96,
@@ -174,9 +174,8 @@
     5,
     117
   ],
-  "DefaultInputMode": 3,
+  "DefaultInputMode": 1,
   "InputModeMapping": {
-    "jetbrains-pycharm:jetbrains-pycharm": 3,
-    "skype:Skype": 1
+    "jetbrains-idea:jetbrains-idea": 1
   }
 }
