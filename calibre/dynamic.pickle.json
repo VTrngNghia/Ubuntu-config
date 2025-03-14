@@ -1,7 +1,8 @@
 {
-  "add books dialog dir": "/home/nghiavt1/Projects/wiktionary-to-kindle",
+  "add books dialog dir": "/home/nghiavt1/Downloads",
   "add books dialog dir-last-used-filter-spec-all-files": false,
-  "choose library location": "/home/nghiavt1/calibre",
+  "choose calibre library": "/home/nghiavt1/Calibre Library",
+  "choose library location": "/mnt/Main/Documents/calibre",
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
@@ -17,11 +18,11 @@
     ],
     [
       "title",
-      false
+      true
     ],
     [
-      "authors",
-      false
+      "last_modified",
+      true
     ],
     [
       "timestamp",

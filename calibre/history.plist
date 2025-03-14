@@ -4,6 +4,7 @@
 <dict>
 	<key>lineedit_history_choose_library_dialog</key>
 	<array>
+		<string>/mnt/Main/Documents/calibre</string>
 		<string>/home/nghiavt1/calibre</string>
 		<string>/home/nghiavt1/calibre-temp</string>
 		<string>/home/nghiavt1/calibre-new</string>

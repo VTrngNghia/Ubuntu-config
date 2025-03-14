@@ -95,6 +95,10 @@
     "Preferences",
     "Find Duplicates"
   ],
+  "basic_metadata_widget_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAADAAAA5wAAAWMAAAEKAf////8BAAAAAQA="
+  },
   "book_details_splitter_horizontal_state": [
     true,
     200
@@ -262,50 +266,50 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 837,
-      "width": 1536,
-      "x": 1920,
-      "y": 27
+      "height": 1040,
+      "width": 1870,
+      "x": -3,
+      "y": -30
     },
     "full_screened": false,
     "geometry": {
-      "height": 807,
-      "width": 1536,
-      "x": 1920,
-      "y": 57
+      "height": 1007,
+      "width": 1864,
+      "x": 0,
+      "y": 0
     },
     "maximized": true,
     "normal_geometry": {
-      "height": 663,
-      "width": 1399,
-      "x": 2000,
-      "y": 118
+      "height": 1007,
+      "width": 1864,
+      "x": 0,
+      "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAeAAAAAGwAADX8AAANfAAAH0AAAAHYAAA1GAAADDAAAAAACAAAABgAAAAeAAAAAOQAADX8AAANf"
+      "__value__": "AdnQywADAAD////9////4gAAB0oAAAPxAAAAAAAAAAAAAAdHAAAD7gAAAAACAAAADwAAAAAAAAAAAAAAB0cAAAPu"
     },
     "screen": {
-      "depth": 24,
-      "device_pixel_ratio": 1.25,
+      "depth": 32,
+      "device_pixel_ratio": 2.0,
       "geometry_in_logical_pixels": {
-        "height": 864,
-        "width": 1536,
-        "x": 1920,
+        "height": 2160,
+        "width": 3840,
+        "x": 0,
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "Dell Inc.",
-      "model": "DELL P2422H-",
-      "name": "HDMI-1",
-      "serial": "D9GZDQ3-",
+      "manufacturer": "DEL",
+      "model": "DELL U2723QE",
+      "name": "DP-2",
+      "serial": "",
       "size_in_logical_pixels": {
-        "height": 864,
-        "width": 1536
+        "height": 2160,
+        "width": 3840
       },
       "virtual_geometry": {
-        "height": 864,
-        "width": 3456,
+        "height": 2160,
+        "width": 3840,
         "x": 0,
         "y": 0
       }
@@ -364,50 +368,50 @@
   },
   "geometry-of-duplicates-question-dialog-geometry": {
     "frame_geometry": {
-      "height": 408,
-      "width": 542,
-      "x": 2348,
-      "y": 199
+      "height": 411,
+      "width": 548,
+      "x": -3,
+      "y": -30
     },
     "full_screened": false,
     "geometry": {
       "height": 378,
       "width": 542,
-      "x": 2348,
-      "y": 229
+      "x": 0,
+      "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 378,
       "width": 542,
-      "x": 2348,
-      "y": 229
+      "x": 0,
+      "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAksAAAAxwAAC0kAAAJeAAAJLAAAAOUAAAtJAAACXgAAAAAAAAAABgAAAAksAAAA5QAAC0kAAAJe"
+      "__value__": "AdnQywADAAD////9////4gAAAiAAAAF8AAAAAAAAAAAAAAIdAAABeQAAAAAAAAAADwAAAAAAAAAAAAAAAh0AAAF5"
     },
     "screen": {
-      "depth": 24,
-      "device_pixel_ratio": 1.25,
+      "depth": 32,
+      "device_pixel_ratio": 2.0,
       "geometry_in_logical_pixels": {
-        "height": 864,
-        "width": 1536,
-        "x": 1920,
+        "height": 2160,
+        "width": 3840,
+        "x": 0,
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "Dell Inc.",
-      "model": "DELL P2422H-",
-      "name": "HDMI-1",
-      "serial": "D9GZDQ3-",
+      "manufacturer": "DEL",
+      "model": "DELL U2723QE",
+      "name": "DP-2",
+      "serial": "",
       "size_in_logical_pixels": {
-        "height": 864,
-        "width": 1536
+        "height": 2160,
+        "width": 3840
       },
       "virtual_geometry": {
-        "height": 864,
-        "width": 3456,
+        "height": 2160,
+        "width": 3840,
         "x": 0,
         "y": 0
       }
@@ -415,50 +419,101 @@
   },
   "geometry-of-jobs_dialog_geometry": {
     "frame_geometry": {
-      "height": 364,
-      "width": 860,
-      "x": 2417,
-      "y": 180
+      "height": 367,
+      "width": 866,
+      "x": -3,
+      "y": -30
     },
     "full_screened": false,
     "geometry": {
       "height": 334,
       "width": 860,
-      "x": 2417,
-      "y": 210
+      "x": 0,
+      "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 334,
       "width": 860,
-      "x": 2417,
-      "y": 210
+      "x": 0,
+      "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAlxAAAAtAAADMwAAAIfAAAJcQAAANIAAAzMAAACHwAAAAAAAAAABgAAAAlxAAAA0gAADMwAAAIf"
+      "__value__": "AdnQywADAAD////9////4gAAA14AAAFQAAAAAAAAAAAAAANbAAABTQAAAAAAAAAADwAAAAAAAAAAAAAAA1sAAAFN"
     },
     "screen": {
-      "depth": 24,
-      "device_pixel_ratio": 1.25,
+      "depth": 32,
+      "device_pixel_ratio": 2.0,
       "geometry_in_logical_pixels": {
-        "height": 864,
-        "width": 1536,
-        "x": 1920,
+        "height": 2160,
+        "width": 3840,
+        "x": 0,
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "Dell Inc.",
-      "model": "DELL P2422H-",
-      "name": "HDMI-1",
-      "serial": "D9GZDQ3-",
+      "manufacturer": "DEL",
+      "model": "DELL U2723QE",
+      "name": "DP-2",
+      "serial": "",
       "size_in_logical_pixels": {
-        "height": 864,
-        "width": 1536
+        "height": 2160,
+        "width": 3840
       },
       "virtual_geometry": {
-        "height": 864,
-        "width": 3456,
+        "height": 2160,
+        "width": 3840,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-metasingle_window_geometry3": {
+    "frame_geometry": {
+      "height": 1040,
+      "width": 1870,
+      "x": -3,
+      "y": -30
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1007,
+      "width": 1864,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 1007,
+      "width": 1864,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAD////9////4gAAB0oAAAPxAAAAAAAAAAAAAAdHAAAD7gAAAAACAAAADwAAAAAAAAAAAAAAB0cAAAPu"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 2.0,
+      "geometry_in_logical_pixels": {
+        "height": 2160,
+        "width": 3840,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "DEL",
+      "model": "DELL U2723QE",
+      "name": "DP-2",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 2160,
+        "width": 3840
+      },
+      "virtual_geometry": {
+        "height": 2160,
+        "width": 3840,
         "x": 0,
         "y": 0
       }
@@ -521,14 +576,50 @@
     "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAv0AAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAA4gAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAA7wAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
   },
   "library_usage_stats": {
-    "/home/nghiavt1/calibre": 17
+    "/home/nghiavt1/Calibre Library": 4,
+    "/home/nghiavt1/calibre": 19,
+    "/mnt/Main/Documents/calibre": 8
+  },
+  "main_window_central_widget_state": {
+    "layout": "wide",
+    "narrow_desires": {
+      "book_details_height": 0.23092573753814852,
+      "cover_browser_width": 0.349609375,
+      "quick_view_height": 0.25635808748728384,
+      "tag_browser_width": 0.25
+    },
+    "narrow_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    },
+    "wide_desires": {
+      "book_details_width": 0.13020833333333334,
+      "cover_browser_height": 0.2840909090909091,
+      "quick_view_height": 0.23863636363636365,
+      "tag_browser_width": 0.13020833333333334
+    },
+    "wide_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    }
   },
   "previous_sort_order_BooksView": {
     "last_modified": false,
+    "series": true,
     "title": true
   },
   "quick_start_guide_added": true,
   "quickview visible": false,
+  "qv_open_at_shutdown": false,
+  "recently_used_languages": [
+    "English"
+  ],
   "replace_scene_breaks_history": [
     "",
     "<hr />",
