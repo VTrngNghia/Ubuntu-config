@@ -5,8 +5,8 @@ export gpu1=nghiavt1@10.0.9.42
 export hweb=nghiavt1@hweb-indexer1v.dev.itim.vn
 export sandbox="root@10.194.60.143"
 export sb=root@nghiavt1-sb.dev.virt
+export indexer24="nghiavt1@indexer24v.dev.itim.vn"
 export GTK_IM_MODULE=ibus
 export XMODIFIERS=@im=ibus
 export QT_IM_MODULE=ibus
-
 
